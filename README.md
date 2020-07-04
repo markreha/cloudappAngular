@@ -10,4 +10,4 @@ Basic Application Functionality
 --------
 The IoT Angular Reporting Reference application, as show in the screen shots below, primary functionality includes implementing a simple reporting parameter screen, allowing the user to specify the Report Type, Report Start Date, and Report End Date, and a report display screen, displaying the IoT data either as a Tabular Report or a Line Chart Report. The main application is displayed by the App Component to display a common application App and NavBar. The application supports a responsive design and can be accessed from desktop, mobile, and tablet browsers.
 
-![IoT Angular Reporting Screen Shots](https://github.com/markreha/cloudworkshop/raw/master/sdk/docs/architecture/images/iotreportingangularss.png)
+![IoT Angular Reporting Screen Shots](https://github.com/markreha/cloudworkshop/raw/master/sdk/docs/architecture/images/iotreportingangularss2.png)
